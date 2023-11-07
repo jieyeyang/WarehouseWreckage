@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/jieyiyangye/Downloads/Unreal Projects/WarehouseWreckage/Content/SM_Rack01.uasset",
+				"/Users/jieyiyangye/Downloads/Unreal Projects/WarehouseWreckage/Content/IndustryPropsPack6/Meshes/SM_Rack01.uasset",
+				"/Users/jieyiyangye/Downloads/Unreal Projects/WarehouseWreckage/Content/Main.umap",
+				"/Users/jieyiyangye/Documents/Unreal Projects/WarehouseWreckage/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset",
+				"/Users/jieyiyangye/Documents/Unreal Projects/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap",
+				"/Users/jieyiyangye/Documents/Unreal Projects/WarehouseWreckage/Content/StarterContent/Maps/BP_Boulet.uasset",
+				"/Users/jieyiyangye/Documents/Unreal Projects/WarehouseWreckage/Content/Bp_Sphere.uasset",
+				"/Users/jieyiyangye/Documents/Unreal Projects/WarehouseWreckage/Content/Main.umap",
+				"/Users/jieyiyangye/Documents/Unreal Projects/WarehouseWreckage/Content/IndustryPropsPack6/Meshes/SM_Barrel01.uasset",
+				"/Users/jieyiyangye/Documents/Unreal Projects/WarehouseWreckage/Content/IndustryPropsPack6/Meshes/Bp_Barrel.uasset",
+				"/Users/jieyiyangye/Documents/Unreal Projects/WarehouseWreckage/Content/IndustryPropsPack6/Meshes/SM_Barrel01_Blueprint.uasset"
+			]
+		}
+	]
+}
