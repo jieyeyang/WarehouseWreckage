@@ -9,3 +9,5 @@ WASD / Arrows - Move
 LMB - Shoot
 
 Esc - Pause Game
+
+Demo: [https://www.youtube.com/watch?v=qk_WmF8dDDM]
